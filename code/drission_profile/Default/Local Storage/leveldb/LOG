@@ -1,0 +1,18 @@
+2026/03/16-17:16:06.248 5908 Reusing MANIFEST D:\Data_Science_Group\code\drission_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/16-17:16:06.254 5908 Recovering log #34
+2026/03/16-17:16:06.257 5908 Reusing old log D:\Data_Science_Group\code\drission_profile\Default\Local Storage\leveldb/000034.log 
+2026/03/16-17:17:06.264 4914 Level-0 table #37: started
+2026/03/16-17:17:06.276 4914 Level-0 table #37: 51378 bytes OK
+2026/03/16-17:17:06.280 4914 Delete type=0 #34
+2026/03/16-17:18:06.794 4914 Level-0 table #39: started
+2026/03/16-17:18:06.809 4914 Level-0 table #39: 52516 bytes OK
+2026/03/16-17:18:06.814 4914 Delete type=0 #36
+2026/03/16-17:18:06.815 4914 Compacting 4@0 + 1@1 files
+2026/03/16-17:18:06.834 4914 Generated table #40@0: 87 keys, 54062 bytes
+2026/03/16-17:18:06.835 4914 Compacted 4@0 + 1@1 files => 54062 bytes
+2026/03/16-17:18:06.837 4914 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/16-17:18:06.840 4914 Delete type=2 #28
+2026/03/16-17:18:06.840 4914 Delete type=2 #31
+2026/03/16-17:18:06.840 4914 Delete type=2 #33
+2026/03/16-17:18:06.840 4914 Delete type=2 #37
+2026/03/16-17:18:06.840 4914 Delete type=2 #39

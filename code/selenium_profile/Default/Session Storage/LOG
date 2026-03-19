@@ -1,0 +1,15 @@
+2026/03/16-17:22:57.765 634c Reusing MANIFEST d:\Data_Science_Group\code\selenium_profile\Default\Session Storage/MANIFEST-000001
+2026/03/16-17:22:57.769 634c Recovering log #14
+2026/03/16-17:22:57.776 634c Reusing old log d:\Data_Science_Group\code\selenium_profile\Default\Session Storage/000014.log 
+2026/03/16-17:23:22.469 3bec Level-0 table #18: started
+2026/03/16-17:23:22.501 3bec Level-0 table #18: 34176 bytes OK
+2026/03/16-17:23:22.517 3bec Delete type=0 #14
+2026/03/16-17:23:22.518 3bec Compacting 4@0 + 1@1 files
+2026/03/16-17:23:22.525 3bec Generated table #19@0: 1367 keys, 17052 bytes
+2026/03/16-17:23:22.525 3bec Compacted 4@0 + 1@1 files => 17052 bytes
+2026/03/16-17:23:22.528 3bec compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/16-17:23:22.529 3bec Delete type=2 #7
+2026/03/16-17:23:22.530 3bec Delete type=2 #9
+2026/03/16-17:23:22.530 3bec Delete type=2 #12
+2026/03/16-17:23:22.530 3bec Delete type=2 #15
+2026/03/16-17:23:22.530 3bec Delete type=2 #18
